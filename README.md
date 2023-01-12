@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Finance Control System with REACT.JS
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
